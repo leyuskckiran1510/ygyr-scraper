@@ -1,0 +1,12 @@
+
+# python cache
+__pycache__
+
+
+# virtual env
+.venv
+venv
+virtual
+
+# datafile
+data_20*
